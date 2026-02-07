@@ -24,10 +24,10 @@ This notebook demonstrates a **basic RAG system** using a fictional undergraduat
 - Answer generation using **Llama 3.1-8B** via the Hugging Face Inference API
 - End-to-end flow: query → retrieve → generate
 
-### What is does not covers
+### What it is not covered
 - Vector database
 - Data chunking
-- No UI
+- UI
 ---
 ##  Scholarships RAG
 
